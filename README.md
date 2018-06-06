@@ -1,2 +1,2 @@
-# pegasus
+# Pegasus
 PegasusBot.net
